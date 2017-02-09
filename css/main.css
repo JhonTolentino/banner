@@ -25,9 +25,12 @@ html {
 }
 
 .banner {
-
+  position: relative;
+  width: 100%
 }
 
 .banner-content {
-
+  position: absolute;
+  width: 100%
+  
 }
