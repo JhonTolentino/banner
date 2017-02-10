@@ -28,14 +28,13 @@ html {
   position: relative;
   width: 100%;
   max-height: 24rem;
+  overflow: hidden;
 }
 
 .banner-content {
   position: absolute;
   width: 100%;
-  top: 200px;
-  bottom: 0;
-  left: 0;
+  bottom: .3rem;
+  left: .5rem;
   color: white;
-  overflow: hidden;
 }
